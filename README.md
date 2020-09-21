@@ -1,2 +1,2 @@
 # lyrics-search
-An application to find Music Lyrics
+An application to find music lyrics
